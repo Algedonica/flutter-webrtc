@@ -15,7 +15,9 @@ A new flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'CustomWebRTC-SDK', :git => 'https://github.com/Algedonica/Specs_custom.git', :tag => 'main'
+  s.source           = { :http => 'https://github.com/Algedonica/Specs_custom/blob/main/CustomWebRTC.xcframework.zip' }
+  s.vendored_frameworks = 'CustomWebRTC.xcframework'
+  # s.dependency 'WebRTC-SDK', '125.6422.04'
   s.ios.deployment_target = '13.0'
   s.static_framework = true
 end
