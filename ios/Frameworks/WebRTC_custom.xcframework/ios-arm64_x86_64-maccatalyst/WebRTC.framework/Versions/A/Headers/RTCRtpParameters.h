@@ -10,11 +10,11 @@
 
 #import <Foundation/Foundation.h>
 
-#import <WebRTC_custom/RTCMacros.h>
-#import <WebRTC_custom/RTCRtcpParameters.h>
-#import <WebRTC_custom/RTCRtpCodecParameters.h>
-#import <WebRTC_custom/RTCRtpEncodingParameters.h>
-#import <WebRTC_custom/RTCRtpHeaderExtension.h>
+#import <WebRTC/RTCMacros.h>
+#import <WebRTC/RTCRtcpParameters.h>
+#import <WebRTC/RTCRtpCodecParameters.h>
+#import <WebRTC/RTCRtpEncodingParameters.h>
+#import <WebRTC/RTCRtpHeaderExtension.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

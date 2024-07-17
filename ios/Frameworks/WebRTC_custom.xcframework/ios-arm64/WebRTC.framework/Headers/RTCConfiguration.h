@@ -10,9 +10,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import <WebRTC_custom/RTCCertificate.h>
-#import <WebRTC_custom/RTCCryptoOptions.h>
-#import <WebRTC_custom/RTCMacros.h>
+#import <WebRTC/RTCCertificate.h>
+#import <WebRTC/RTCCryptoOptions.h>
+#import <WebRTC/RTCMacros.h>
 
 @class RTC_OBJC_TYPE(RTCIceServer);
 

@@ -14,9 +14,9 @@
 #import <AppKit/AppKit.h>
 #endif
 
-#import <WebRTC_custom/RTCMacros.h>
-#import <WebRTC_custom/RTCVideoFrame.h>
-#import <WebRTC_custom/RTCVideoRenderer.h>
+#import <WebRTC/RTCMacros.h>
+#import <WebRTC/RTCVideoFrame.h>
+#import <WebRTC/RTCVideoRenderer.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

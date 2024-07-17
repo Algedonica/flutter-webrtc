@@ -16,8 +16,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import <WebRTC_custom/RTCAudioProcessingModule.h>
-#import <WebRTC_custom/RTCMacros.h>
+#import <WebRTC/RTCAudioProcessingModule.h>
+#import <WebRTC/RTCMacros.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

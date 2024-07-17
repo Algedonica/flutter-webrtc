@@ -10,9 +10,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import <WebRTC_custom/RTCMacros.h>
-#import <WebRTC_custom/RTCRtpReceiver.h>
-#import <WebRTC_custom/RTCRtpSender.h>
+#import <WebRTC/RTCMacros.h>
+#import <WebRTC/RTCRtpReceiver.h>
+#import <WebRTC/RTCRtpSender.h>
 
 @class RTC_OBJC_TYPE(RTCRtpCodecCapability);
 

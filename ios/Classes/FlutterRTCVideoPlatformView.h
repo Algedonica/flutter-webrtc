@@ -4,7 +4,7 @@
 #import <FlutterMacOS/FlutterMacOS.h>
 #endif
 
-#import <WebRTC_custom/WebRTC.h>
+#import <WebRTC/WebRTC.h>
 
 @interface FlutterRTCVideoPlatformView : UIView <RTC_OBJC_TYPE (RTCVideoViewDelegate)>
 

@@ -17,8 +17,8 @@
 #import <CoreMedia/CoreMedia.h>
 #import <Foundation/Foundation.h>
 
-#import <WebRTC_custom/RTCMacros.h>
-#import <WebRTC_custom/RTCIODevice.h>
+#import <WebRTC/RTCMacros.h>
+#import <WebRTC/RTCIODevice.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

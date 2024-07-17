@@ -10,7 +10,7 @@
 
 #import <AppKit/AppKit.h>
 
-#import <WebRTC_custom/RTCVideoRenderer.h>
+#import <WebRTC/RTCVideoRenderer.h>
 
 RTC_OBJC_EXPORT
 @interface RTC_OBJC_TYPE (RTCMTLNSVideoView) : NSView <RTC_OBJC_TYPE(RTCVideoRenderer)>

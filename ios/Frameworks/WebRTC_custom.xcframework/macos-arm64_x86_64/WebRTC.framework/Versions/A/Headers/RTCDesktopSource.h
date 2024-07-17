@@ -17,7 +17,7 @@
 #import <AVFoundation/AVFoundation.h>
 #import <Foundation/Foundation.h>
 
-#import <WebRTC_custom/RTCMacros.h>
+#import <WebRTC/RTCMacros.h>
 
 typedef NS_ENUM(NSInteger, RTCDesktopSourceType) {
   RTCDesktopSourceTypeScreen,

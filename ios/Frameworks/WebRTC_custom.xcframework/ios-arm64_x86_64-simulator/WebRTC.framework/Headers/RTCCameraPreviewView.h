@@ -11,7 +11,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-#import <WebRTC_custom/RTCMacros.h>
+#import <WebRTC/RTCMacros.h>
 
 @class AVCaptureSession;
 
