@@ -1,9 +1,9 @@
 #import "FlutterWebRTCPlugin.h"
 
-#import <WebRTC/RTCMediaStream.h>
-#import <WebRTC/RTCVideoFrame.h>
-#import <WebRTC/RTCVideoRenderer.h>
-#import <WebRTC/RTCVideoTrack.h>
+#import <WebRTC_custom/RTCMediaStream.h>
+#import <WebRTC_custom/RTCVideoFrame.h>
+#import <WebRTC_custom/RTCVideoRenderer.h>
+#import <WebRTC_custom/RTCVideoTrack.h>
 
 @interface FlutterRTCVideoRenderer
     : NSObject <FlutterTexture, RTCVideoRenderer, FlutterStreamHandler>

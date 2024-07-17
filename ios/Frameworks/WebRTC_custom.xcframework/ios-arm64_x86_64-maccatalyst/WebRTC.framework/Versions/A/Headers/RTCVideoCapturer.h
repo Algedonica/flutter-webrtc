@@ -8,9 +8,9 @@
  *  be found in the AUTHORS file in the root of the source tree.
  */
 
-#import <WebRTC/RTCVideoFrame.h>
+#import <WebRTC_custom/RTCVideoFrame.h>
 
-#import <WebRTC/RTCMacros.h>
+#import <WebRTC_custom/RTCMacros.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -10,9 +10,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import <WebRTC/RTCMacros.h>
-#import <WebRTC/RTCMediaStreamTrack.h>
-#import <WebRTC/RTCRtpParameters.h>
+#import <WebRTC_custom/RTCMacros.h>
+#import <WebRTC_custom/RTCMediaStreamTrack.h>
+#import <WebRTC_custom/RTCRtpParameters.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

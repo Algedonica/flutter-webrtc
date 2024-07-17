@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
-#import <WebRTC/RTCMacros.h>
-#import <WebRTC/RTCVideoEncoderFactory.h>
+#import <WebRTC_custom/RTCMacros.h>
+#import <WebRTC_custom/RTCVideoEncoderFactory.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

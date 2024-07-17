@@ -4,7 +4,7 @@
 #import <FlutterMacOS/FlutterMacOS.h>
 #endif
 
-#import <WebRTC/WebRTC.h>
+#import <WebRTC_custom/WebRTC.h>
 
 @interface FlutterRTCVideoPlatformViewController : NSObject<FlutterPlatformView, FlutterStreamHandler, RTCVideoRenderer>
 

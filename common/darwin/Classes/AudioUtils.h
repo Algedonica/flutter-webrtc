@@ -1,6 +1,6 @@
 #if TARGET_OS_IPHONE
 
-#import <WebRTC/WebRTC.h>
+#import <WebRTC_custom/WebRTC.h>
 
 @interface AudioUtils : NSObject
 + (void)ensureAudioSessionWithRecording:(BOOL)recording;

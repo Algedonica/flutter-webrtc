@@ -10,12 +10,12 @@
 
 #import <Foundation/Foundation.h>
 
-#import <WebRTC/RTCCodecSpecificInfo.h>
-#import <WebRTC/RTCEncodedImage.h>
-#import <WebRTC/RTCMacros.h>
-#import <WebRTC/RTCVideoEncoderQpThresholds.h>
-#import <WebRTC/RTCVideoEncoderSettings.h>
-#import <WebRTC/RTCVideoFrame.h>
+#import <WebRTC_custom/RTCCodecSpecificInfo.h>
+#import <WebRTC_custom/RTCEncodedImage.h>
+#import <WebRTC_custom/RTCMacros.h>
+#import <WebRTC_custom/RTCVideoEncoderQpThresholds.h>
+#import <WebRTC_custom/RTCVideoEncoderSettings.h>
+#import <WebRTC_custom/RTCVideoFrame.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

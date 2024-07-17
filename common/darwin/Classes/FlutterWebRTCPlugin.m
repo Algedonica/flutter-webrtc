@@ -11,8 +11,8 @@
 #import "FlutterRTCVideoPlatformViewController.h"
 #endif
 #import <AVFoundation/AVFoundation.h>
-#import <WebRTC/RTCFieldTrials.h>
-#import <WebRTC/WebRTC.h>
+#import <WebRTC_custom/RTCFieldTrials.h>
+#import <WebRTC_custom/WebRTC.h>
 
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wprotocol"

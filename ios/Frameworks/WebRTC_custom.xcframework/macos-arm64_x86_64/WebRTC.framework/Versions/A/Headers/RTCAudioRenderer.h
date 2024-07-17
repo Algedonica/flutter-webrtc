@@ -19,7 +19,7 @@
 #import <UIKit/UIKit.h>
 #endif
 
-#import <WebRTC/RTCMacros.h>
+#import <WebRTC_custom/RTCMacros.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

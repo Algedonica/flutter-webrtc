@@ -1,7 +1,7 @@
-#import <WebRTC/RTCMacros.h>
-#import <WebRTC/RTCVideoEncoder.h>
-#import <WebRTC/RTCVideoEncoderFactory.h>
-#import <WebRTC/RTCVideoCodecInfo.h>
+#import <WebRTC_custom/RTCMacros.h>
+#import <WebRTC_custom/RTCVideoEncoder.h>
+#import <WebRTC_custom/RTCVideoEncoderFactory.h>
+#import <WebRTC_custom/RTCVideoCodecInfo.h>
 
 RTC_OBJC_EXPORT
 @interface RTC_OBJC_TYPE (RTCVideoEncoderSimulcast) : NSObject

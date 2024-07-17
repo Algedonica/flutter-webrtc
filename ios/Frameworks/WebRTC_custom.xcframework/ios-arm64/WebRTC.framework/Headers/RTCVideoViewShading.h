@@ -10,7 +10,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <WebRTC/RTCVideoFrame.h>
+#import <WebRTC_custom/RTCVideoFrame.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
