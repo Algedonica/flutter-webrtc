@@ -15,7 +15,7 @@ A new flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.vendored_vendored_frameworks= 'Frameworks/WebRTC_custom.xcframework'
+  s.vendored_frameworks= 'Frameworks/WebRTC_custom.xcframework'
   s.ios.deployment_target = '13.0'
   s.static_framework = true
 end
