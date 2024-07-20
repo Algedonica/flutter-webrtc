@@ -8,8 +8,8 @@
 #include <mach/mach_time.h>
 
 #import <ReplayKit/ReplayKit.h>
-#import <WebRTC/RTCCVPixelBuffer.h>
-#import <WebRTC/RTCVideoFrameBuffer.h>
+#import <CustomWebRTC/RTCCVPixelBuffer.h>
+#import <CustomWebRTC/RTCVideoFrameBuffer.h>
 
 #import "FlutterSocketConnection.h"
 #import "FlutterSocketConnectionFrameReader.h"

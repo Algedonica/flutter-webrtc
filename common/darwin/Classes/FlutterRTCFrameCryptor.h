@@ -4,7 +4,7 @@
 #import <FlutterMacOS/FlutterMacOS.h>
 #endif
 
-#import <WebRTC/WebRTC.h>
+#import <CustomWebRTC/WebRTC.h>
 
 #import "FlutterWebRTCPlugin.h"
 

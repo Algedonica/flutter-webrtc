@@ -6,7 +6,7 @@
 //
 
 #import <AVFoundation/AVFoundation.h>
-#import <WebRTC/RTCVideoCapturer.h>
+#import <CustomWebRTC/RTCVideoCapturer.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

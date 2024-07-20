@@ -2,9 +2,9 @@
 
 #import <AVFoundation/AVFoundation.h>
 #import <CoreGraphics/CGImage.h>
-#import <WebRTC/RTCYUVHelper.h>
-#import <WebRTC/RTCYUVPlanarBuffer.h>
-#import <WebRTC/WebRTC.h>
+#import <CustomWebRTC/RTCYUVHelper.h>
+#import <CustomWebRTC/RTCYUVPlanarBuffer.h>
+#import <CustomWebRTC/WebRTC.h>
 
 #import <objc/runtime.h>
 

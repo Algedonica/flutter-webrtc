@@ -1,5 +1,5 @@
 #import "FlutterRTCDataChannel.h"
-#import <WebRTC/RTCDataChannelConfiguration.h>
+#import <CustomWebRTC/RTCDataChannelConfiguration.h>
 #import <objc/runtime.h>
 #import "FlutterRTCPeerConnection.h"
 
